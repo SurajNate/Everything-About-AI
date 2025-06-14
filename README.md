@@ -112,9 +112,6 @@ The `Demo File Outputs` directory contains example outputs:
 - CUDA-compatible GPU (recommended for faster generation)
 - Required packages listed in `requirements.txt`
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
